@@ -59,6 +59,7 @@ public class MyGui {
         //myFrame.pack();
        //sichtbar machen
        myFrame.setVisible(true);
+       myFrame.setLocationRelativeTo(null);
              
     }
     
